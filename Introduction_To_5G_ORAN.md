@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/mjzRtTFiTyeeKy760leMPQ/badge)](https://hackmd.io/mjzRtTFiTyeeKy760leMPQ)
 :::warning
 # <center><i class="fa fa-edit"></i> Introduction to 5G, RAN, and O-RAN</center>
 :::
