@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/7w6MsiqhTZ-iF0--y39gvg/badge)](https://hackmd.io/7w6MsiqhTZ-iF0--y39gvg)
 :::warning
 # <center><i class="fa fa-edit"></i> O-RAN Components and Interfaces</center>
 :::
