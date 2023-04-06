@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/S9M1qdZATVejbHadNDZBnA/badge)](https://hackmd.io/S9M1qdZATVejbHadNDZBnA)
 :::warning
 # <center><i class="fa fa-edit"></i> FlexRIC</center>
 :::
