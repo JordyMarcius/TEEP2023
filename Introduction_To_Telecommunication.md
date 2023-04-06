@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/e0MDt37NRZOsOrwBAOHHwA/badge)](https://hackmd.io/e0MDt37NRZOsOrwBAOHHwA)
 :::warning
 # <center><i class="fa fa-edit"></i> Introduction to Telecommunication and Networking</center>
 :::
