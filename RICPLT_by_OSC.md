@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/Cjl-RxEKQpiZz3LrpGC3Tg/badge)](https://hackmd.io/Cjl-RxEKQpiZz3LrpGC3Tg)
 :::warning
 # <center><i class="fa fa-edit"></i> Near-RT RIC Projects by OSC</center>
 :::
