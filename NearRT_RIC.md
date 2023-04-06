@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/Gol_c6KYRaaNYm3P5HHtVg/badge)](https://hackmd.io/Gol_c6KYRaaNYm3P5HHtVg)
 :::warning
 # <center><i class="fa fa-edit"></i> Near-RT RIC </center>
 :::
